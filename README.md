@@ -34,5 +34,5 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linkedin.com/in/subhankar-sharma-257978229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhankar-sharma-257978229/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sharma_bytes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sharma_bytes/" height="30" width="40" /></a>
-<a href="https://x.com/s_sharma_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/s_sharma_s" height="30" width="40" /></a>
+<a href="https://x.com/sharma_bytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sharma_bytes" height="30" width="40" /></a>
 </p>
